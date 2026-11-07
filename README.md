@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/muhammad_talal_akhtar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/Muhammad-Talal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammadtalal91" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:muhammadtalalakhtar01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -33,7 +33,7 @@
 <img src="https://streak-stats.demolab.com/?user=Talal-Akhtar&theme=radical&hide_border=true" />
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
